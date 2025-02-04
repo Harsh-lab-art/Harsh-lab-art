@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hii I am Harsh Kumar Verma 
 🔭 I’m currently working on Database management system<br>👯 I’m looking to collaborate on DBMS projects ,Backend Developer<br>🤝 I’m looking for help with Advance SQL , Query Optimization, System design<br>🌱 I’m currently learning NPTEL course on DBMS Data structure and Algorithms<br>💬 Ask me about Database , SQL, Algorithms, LeetCode, GitHub<br>⚡ Fun fact  I love solving SQL queries like solving puzzles<br><br>
 
 
