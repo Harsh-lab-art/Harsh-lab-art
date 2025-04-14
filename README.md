@@ -1,5 +1,59 @@
-# 💫 Hii I am Harsh Kumar Verma 
-🔭 I’m currently working on Database management system<br>👯 I’m looking to collaborate on DBMS projects ,Backend Developer<br>🤝 I’m looking for help with Advance SQL , Query Optimization, System design<br>🌱 I’m currently learning NPTEL course on DBMS Data structure and Algorithms<br>💬 Ask me about Database , SQL, Algorithms, LeetCode, GitHub<br>⚡ Fun fact  I love solving SQL queries like solving puzzles<br><br>
+# 👋 Hey, I'm Harsh – aka CodeCrafter 🔥
+
+![Developer](https://img.shields.io/badge/role-Full%20Stack%20Explorer-blueviolet)
+![Hackathon](https://img.shields.io/badge/hackathons-Addicted%20💻-green)
+![Status](https://img.shields.io/badge/backend-Learning%20Flask-orange)
+
+## 🧠 About Me
+
+I'm a **curious creator** diving deep into the world of **AI, cybersecurity, and web development**.  
+Currently building an ML-powered web app to **detect AI-generated phishing attacks**, with a cool mix of:
+
+- 🧠 **Machine Learning**
+- 🔐 **Cybersecurity Tools**
+- 🌐 **Chrome Extensions**
+- 🔥 **Flask Backends**
+- 🎨 **Creative UIs with HTML/CSS/JS**
+
+I balance all that with **LeetCode grind sessions**, **NPTEL deep dives**, and late-night **debugging marathons** 🧃
+
+---
+
+## 🦸‍♂️ Superpowers
+
+- ⚙️ **Frontend Wizardry** – I make HTML, CSS, and JS dance 💃
+- 🧩 **Problem Solver** – LeetCode = daily gym 🏋️‍♂️ for my brain
+- 💡 **Creative Mindset** – Not just building apps, building *experiences*
+- 🕶️ **Hackathon Hero** – I turn caffeine into code under pressure
+- 🌱 **Forever Learner** – Always growing, one framework at a time
+
+---
+
+## 🛠️ Currently Working On
+
+🚨 **AI-Powered Phishing Detector**  
+> A secure, creative web app that detects phishing using ML models + a sleek UI + Flask backend + Chrome extension magic.
+
+---
+
+## ⚠️ My Kryptonite
+
+- ⏳ Sometimes stuck in perfection loops  
+- 🧱 Backend newbie (Flask is my dojo)  
+- 🧠 Might forget to sleep when deep in a project 😅
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [GitHub](https://github.com/Harsh-lab-art)
+- 🧠 [LeetCode](https://leetcode.com/) – solving problems like puzzles 🧩
+- 💬 DM me if you're up for collabs, hackathons, or building cool stuff together!
+
+---
+
+**_"Building more than just software — building the future."_**
+
 
 
 ## 🌐 Socials:
