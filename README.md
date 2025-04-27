@@ -1,6 +1,10 @@
-previous
-
 # 👋 Hey, I'm Harsh – aka CodeCrafter 🔥
+
+
+<p align="center">
+  <img src="https://technostupid.com/frontend/images/95116-coder.gif" alt="Developer at Work" width="700"/>
+</p>
+
 
 ![Developer](https://img.shields.io/badge/role-Full%20Stack%20Explorer-blueviolet)
 ![Hackathon](https://img.shields.io/badge/hackathons-Addicted%20💻-green)
