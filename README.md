@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Harsh – aka CodeCrafter 🔥
 
 
-<p align="right">
-  <img src="https://technostupid.com/frontend/images/95116-coder.gif" alt="Developer at Work" width="200"/>
+<p align="center">
+  <img src="https://technostupid.com/frontend/images/95116-coder.gif" alt="Developer at Work" width="250"/>
 </p>
 
 
