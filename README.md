@@ -25,7 +25,7 @@ I balance all that with **LeetCode grind sessions**, **NPTEL deep dives**, and l
 
 ---
 
-## 🦸‍♂️ Superpowers
+## 🦸‍♂️ Infinity Stones(Super Powers)
 
 - ⚙️ **Frontend Wizardry** – I make HTML, CSS, and JS dance 💃
 - 🧩 **Problem Solver** – LeetCode = daily gym 🏋️‍♂️ for my brain
