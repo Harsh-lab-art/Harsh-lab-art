@@ -7,7 +7,9 @@
 
 
 ![Developer](https://img.shields.io/badge/role-Full%20Stack%20Explorer-blueviolet)
+
 ![Hackathon](https://img.shields.io/badge/hackathons-Addicted%20💻-green)
+
 ![Status](https://img.shields.io/badge/backend-Learning%20Flask-orange)
 
 ## 🧠 About Me
@@ -35,10 +37,29 @@ I balance all that with **LeetCode grind sessions**, **NPTEL deep dives**, and l
 
 ---
 
-## 🛠️ Currently Working On
+## 🏆 Hackathon Experience
 
-🚨 **AI-Powered Phishing Detector**  
-> A secure, creative web app that detects phishing using ML models + a sleek UI + Flask backend + Chrome extension magic.
+🚀 I actively participate in national-level and industry hackathons, building innovative solutions with a mix of AI, cybersecurity, web dev, and real-world impact. Here are a few highlights:
+
+- 🛡️ **AI Phishing Detection System**  
+  *Cybersecurity Hackathon*  
+  - Built a **Chrome extension** + **Flask backend** with an ML model to detect AI-generated phishing pages in real-time.
+  - Tech stack: Python, scikit-learn, Flask, JavaScript, Chrome API
+
+- 🍱 **Smart Food Donation Network**  
+  *Social Impact Hackathon*  
+  - Developed a platform to connect **donors with NGOs and food banks** via **real-time geotagging** and smart distribution logic.
+  - Tech stack: HTML, CSS, JS, LeafletJS, Firebase
+
+- 🧠 **Adobe India Hackathon 2025 – Stage 1 Qualified**  
+  - Cleared the **MCQ + Coding Round** with a focus on DSA and optimization algorithms using Java.
+
+- 🧩 **Samsung Treasure Hunt Challenge**  
+  - Participated in Samsung’s innovation-driven tech hunt.
+  - Focused on critical thinking, tech puzzles, and problem-solving under pressure.
+
+More projects in progress... Stay tuned! 😄
+
 
 ---
 
