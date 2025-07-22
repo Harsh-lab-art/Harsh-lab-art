@@ -2,7 +2,7 @@
 <h3 align="center">AI & Cybersecurity Explorer | Full Stack Dev | Creative Technologist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F6F6F6&center=true&vCenter=true&width=435&lines=Code+is+my+Canvas;Building+Smart+&+Secure+Web+Apps;Hackathon+Lover+%7C+Team+Player;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F6F6F6&center=true&vCenter=true&width=435&lines=Hackathon+Addicted;Code+is+my+Canvas;Building+Smart+&+Secure+Web+Apps;Hackathon+Lover+%7C+Team+Player;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 </p>
 
 
@@ -112,6 +112,6 @@ More projects in progress... Stay tuned! 😄
 [![](https://visitcount.itsvg.in/api?id=Harsh-lab-art&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6556CD&height=120&section=footer"/>
 </p>
 
