@@ -111,4 +111,7 @@ More projects in progress... Stay tuned! 😄
 ---
 [![](https://visitcount.itsvg.in/api?id=Harsh-lab-art&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer"/>
+</p>
 
