@@ -1,4 +1,10 @@
-# 👋 Hey, I'm Harsh – aka CodeCrafter 🔥
+<h1 align="center">Namaste ⚡, I'm Harsh Kumar Verma</h1>
+<h3 align="center">AI & Cybersecurity Explorer | Full Stack Dev | Creative Technologist</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F6F6F6&center=true&vCenter=true&width=435&lines=Code+is+my+Canvas;Building+Smart+&+Secure+Web+Apps;Hackathon+Lover+%7C+Team+Player;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+</p>
+
 
 
 <p align="center">
