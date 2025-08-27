@@ -10,12 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F6F6F6&center=true&vCenter=true&width=435&lines=Hackathon+Addicted;Code+is+my+Canvas;Building+Smart+&+Secure+Web+Apps;Hackathon+Lover;Team+Player;Always+Learning;Always+Building" alt="Typing SVG" />
-</p>
-
-
-
-<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Developer at Work" width="450"/>
 </p>
 
