@@ -1,4 +1,7 @@
-<h1 align="center">Namaste ⚡, I'm Harsh Kumar Verma</h1>
+<div align="center" style="background: url('https://i.pinimg.com/originals/4e/f6/08/4ef608e95677dc3dab15a00df8148277.gif') no-repeat center; background-size: cover; padding: 40px; border-radius: 12px;">
+  <h1 style="color: white; text-shadow: 2px 2px 8px #000;">Namaste ⚡, I'm Harsh Kumar Verma</h1>
+</div>
+
 <h3 align="center">AI & Cybersecurity Explorer | Full Stack Dev | Creative Technologist</h3>
 
 <p align="center">
