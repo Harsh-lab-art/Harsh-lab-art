@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://technostupid.com/frontend/images/95116-coder.gif" alt="Developer at Work" width="250"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Developer at Work" width="250"/>
 </p>
 
 
