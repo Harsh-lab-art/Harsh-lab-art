@@ -1,8 +1,13 @@
-<div align="center" style="background: url('https://i.pinimg.com/originals/4e/f6/08/4ef608e95677dc3dab15a00df8148277.gif') no-repeat center; background-size: cover; padding: 40px; border-radius: 12px;">
-  <h1 style="color: white; text-shadow: 2px 2px 8px #000;">Namaste ⚡, I'm Harsh Kumar Verma</h1>
-</div>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/4e/f6/08/4ef608e95677dc3dab15a00df8148277.gif" width="100%" height="250" style="object-fit: cover; border-radius: 12px;" alt="Banner"/>
+</p>
 
+<h1 align="center">Namaste ⚡, I'm Harsh Kumar Verma</h1>
 <h3 align="center">AI & Cybersecurity Explorer | Full Stack Dev | Creative Technologist</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F6F6F6&center=true&vCenter=true&width=435&lines=Hackathon+Addicted;Code+is+my+Canvas;Building+Smart+&+Secure+Web+Apps;Hackathon+Lover;Team+Player;Always+Learning;Always+Building" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F6F6F6&center=true&vCenter=true&width=435&lines=Hackathon+Addicted;Code+is+my+Canvas;Building+Smart+&+Secure+Web+Apps;Hackathon+Lover;Team+Player;Always+Learning;Always+Building" alt="Typing SVG" />
