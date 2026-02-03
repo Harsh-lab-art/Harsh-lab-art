@@ -50,6 +50,11 @@ I balance all that with **LeetCode grind sessions**, **NPTEL deep dives**, and l
 
 🚀 I actively participate in national-level and industry hackathons, building innovative solutions with a mix of AI, cybersecurity, web dev, and real-world impact. Here are a few highlights:
 
+- **Smart India Hackathon 2025**
+   *System Architecture and Machine Learning*
+  - We built an **architecture malware** analysis system that converts **binaries** and **firmware** into program graphs and uses **GIN** + **GraphSAGE** **GNN models** to detect malicious behavior across different system architectures.
+  -It exposes this intelligence through a **scalable API based** system architecture for real-time, architecture specific threat analysis
+
 - 🛡️ **AI Phishing Detection System**  
   *Cybersecurity Hackathon*  
   - Built a **Chrome extension** + **Flask backend** with an ML model to detect AI-generated phishing pages in real-time.
