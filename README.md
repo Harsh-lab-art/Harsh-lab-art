@@ -53,7 +53,7 @@ I balance all that with **LeetCode grind sessions**, **NPTEL deep dives**, and l
 - **Smart India Hackathon 2025**
    *System Architecture and Machine Learning*
   - We built an **architecture malware** analysis system that converts **binaries** and **firmware** into program graphs and uses **GIN** + **GraphSAGE** **GNN models** to detect malicious behavior across different system architectures.
-  -It exposes this intelligence through a **scalable API based** system architecture for real-time, architecture specific threat analysis
+  - It exposes this intelligence through a **scalable API based** system architecture for real-time, architecture specific threat analysis
 
 - 🛡️ **AI Phishing Detection System**  
   *Cybersecurity Hackathon*  
@@ -122,6 +122,8 @@ More projects in progress... Stay tuned! 😄
 [![](https://visitcount.itsvg.in/api?id=Harsh-lab-art&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6556CD&height=120&section=footer"/>
 </p>
 
