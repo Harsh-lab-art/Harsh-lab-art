@@ -121,6 +121,11 @@ More projects in progress... Stay tuned! 😄
 ---
 [![](https://visitcount.itsvg.in/api?id=Harsh-lab-art&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🐍 Contribution Snake
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/mubasshir14/mubasshir14/main/Skills_Animation_Dark.gif"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6556CD&height=120&section=footer"/>
